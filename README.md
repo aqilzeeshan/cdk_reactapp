@@ -1,1 +1,1 @@
-# Fullstack Application
+# Fullstack Serverless Application
